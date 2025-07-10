@@ -91,8 +91,11 @@ Use `println(Serial.list());` to see all ports and find your Arduino's index.
 ### Circuit
 ![Circuit](ecg/images/circuit.jpg)
 
-### BPM Detection
-![BPM](images/ecg/bpm.png)
+### Waveform
+![Waveform](ecg/images/waveform.png)
+
+### Heart
+![Heart](ecg/images/hearth.jpg)
 
 
 
@@ -127,4 +130,3 @@ Pull requests and improvements are welcome. For major changes, please open an is
 
 Feel free to reach out if you have questions!
 
-```
