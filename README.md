@@ -86,9 +86,13 @@ Use `println(Serial.list());` to see all ports and find your Arduino's index.
 
 
 
-## 🖼️ Screenshot (Optional)
+## 🖼️ Images
 
-![ECG Monitor Screenshot](screenshot.png)
+### Circuit
+![Circuit](ecg/images/circuit.jpg)
+
+### BPM Detection
+![BPM](images/ecg/bpm.png)
 
 
 
